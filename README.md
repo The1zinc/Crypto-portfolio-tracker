@@ -1,16 +1,37 @@
-# React + Vite
+# Crypto Portfolio Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and comprehensive cryptocurrency portfolio tracking application built with React and Vite. 
 
-Currently, two official plugins are available:
+## Features
+- **Real-time Tracking**: Monitor your cryptocurrency assets in real-time.
+- **Historical Data**: View price history and trends for popular coins like BTC, ETH, SOL, DOT, AVAX, and more.
+- **Performance Analytics**: Track your portfolio's performance over various timeframes.
+- **Responsive Design**: Optimized for both desktop and mobile viewing.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Getting Started
 
-## React Compiler
+### Prerequisites
+- Node.js (v16 or higher)
+- npm or yarn
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone git@github.com:The1zinc/Crypto-portfolio-tracker.git
+   ```
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Start the development server:
+   ```bash
+   npm run dev
+   ```
 
-## Expanding the ESLint configuration
+## Technologies Used
+- React
+- Vite
+- JavaScript / HTML / CSS
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## License
+This project is licensed under the MIT License.
